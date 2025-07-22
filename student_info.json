@@ -1,0 +1,57 @@
+[
+    {
+        "student_id": "01",
+        "first_name": "Kennett",
+        "last_name": "Dack",
+        "email": "kdackf@pen.io",
+        "age": 29,
+        "country": "Russia",
+        "entry_date": "20/07/2019",
+        "major": "Geology",
+        "gpa": 3.56
+    },
+    {
+        "student_id": "02",
+        "first_name": "Gray",
+        "last_name": "Gadson",
+        "email": "ggadsoni@multiply.com",
+        "age": 31,
+        "country": "Malaysia",
+        "entry_date": "23/11/2018",
+        "major": "Anthropology",
+        "gpa": 2.95
+    },
+    {
+        "student_id": "03",
+        "first_name": "Jamie",
+        "last_name": "Hyde",
+        "email": "jhydek@ebay.com",
+        "age": 25,
+        "country": "Egypt",
+        "entry_date": "10/09/2012",
+        "major": "Music",
+        "gpa": 1.58
+    },
+    {
+        "student_id": "04",
+        "first_name": "Bobbie",
+        "last_name": "Joa",
+        "email": "bjoao8@tripod.com",
+        "age": 29,
+        "country": "Indonesia",
+        "entry_date": "12/01/2014",
+        "major": "Computer Science",
+        "gpa": 3.2
+    },
+    {
+        "student_id": "05",
+        "first_name": "Pepito",
+        "last_name": "Alp",
+        "email": "palpc@ca.gov",
+        "age": 29,
+        "country": "China",
+        "entry_date": "11/07/2001",
+        "major": "Computer Science",
+        "gpa": 3.87
+    }
+]

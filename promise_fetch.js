@@ -83,12 +83,12 @@ console.log("my name is Hellow three");
 //     let hydweather = new Promise((resolve, reject) => {
 //        setTimeout(() => {
 //         resolve(34);
-//        }, 3000); 
+//        }, 3000);
 //     })
 //    let mirpur =  new Promise((resolve, reject) => {
 //          setTimeout(() => {
 //         resolve(30);
-//        }, 3000); 
+//        }, 3000);
 //     })
 // }
 

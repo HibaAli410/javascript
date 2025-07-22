@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Ali Raza",
+        "age": 34,
+        "occupation": "Trading",
+        "Address": "Tando Allahyar",
+        "postal-code": 7100,
+        "cell": 782936378
+    },
+    {
+        "name": "Muhammad Owais",
+        "age": 31,
+        "occupation": "Construction",
+        "Address": "Hydrabad",
+        "postal-code": 7100,
+        "cell": 729373679928
+    }
+]
