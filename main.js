@@ -48,10 +48,11 @@ async function rendertable(data, demo) {
         const th = document.createElement('th');
         thead.appendChild(th);
         th.innerHTML = head.toUpperCase();
-    }
+        }
     mytable.appendChild(thead);
      json_data.forEach((element) => {
 
+        //console.log(element);
         //console.log(element);
         const tr = document.createElement("tr");
         for (let key in element) {

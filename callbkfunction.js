@@ -4,7 +4,7 @@ function custom_func_addition(num1, num2) {
     var num3 = num1 + num2
     return num3
 }
-custom_func_addition(4, 7)
+custom_func_addition(4, 7);
 
 // second function
 function goodevening(student_name) {

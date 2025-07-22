@@ -50,6 +50,7 @@ let order_promise = new Promise((myresolve, myreject) => {
     }, 4000)
 })
 
+// console.log(order_promise);
 console.log(order_promise);
 
 let rejection = new Promise((myres, myrej) => {
